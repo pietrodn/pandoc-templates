@@ -1,0 +1,10 @@
+---
+    author: "Pietro De Nicolao"
+    date: \today
+    title: "Pandoc Markdown-to-Beamer test"
+    subtitle: "Pandoc is amazing!"
+    institute: "Politecnico di Milano"
+    toc: true
+    navigation: "horizontal"
+    lang: "it"
+---

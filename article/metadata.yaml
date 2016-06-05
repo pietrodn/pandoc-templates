@@ -1,0 +1,10 @@
+---
+    author: "Pietro De Nicolao"
+    date: \today
+    title: "Pandoc Markdown-to-Beamer test"
+    subtitle: "Pandoc is amazing!"
+    toc: true
+    lang: "it"
+    papersize: "a4"
+    documentclass: "article"
+---
